@@ -1,0 +1,1 @@
+"server=automap.cxnllsgrt5yp.us-west-2.rds.amazonaws.com;uid=rfid;pwd=rfid_tag;database=Capital_Chrysler_Jeep_Dodge_Ram_AutoMap"
